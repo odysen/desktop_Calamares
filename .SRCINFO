@@ -36,4 +36,4 @@ pkgbase = calamares-git
 	sha256sums = SKIP
 	sha256sums = SKIP
 
-pkgname = calamares-git
+pkgname = calamares-odysen
