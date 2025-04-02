@@ -1,0 +1,11 @@
+[Desktop Entry]
+Type=Application
+
+Name=Install Odysen
+
+Exec=/usr/bin/pkexec calamares %f
+
+Icon=calamares
+
+Categories=System;
+Keywords=calamares;installer;system;
